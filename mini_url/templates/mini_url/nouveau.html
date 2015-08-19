@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block liste_url %}
+
+<h1>
+    Raccourcir une URL
+</h1>
+<form method="post" action="{% url 'url_nouveau' %}" name="them_moi">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <input type="submit" />
+</form>
+{% endblock %}

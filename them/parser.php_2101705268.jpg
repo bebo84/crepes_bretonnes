@@ -1,0 +1,277 @@
+    <html xmlns="http://www.w3.org/1999/xhtml">
+        <head>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+                                <link rel="stylesheet" href="http://st.f3.vnecdn.net/responsive/c/v58/parser.css" media="all" />
+                <script type="text/javascript" src="http://st.f2.vnecdn.net/responsive/libs/jquery-1.7.1.min.js"></script>
+                <script language="javascript" type="text/javascript" src="http://st.f2.vnecdn.net/responsive/j/v6/flash.detect.js"></script>
+                <script language="javascript" type="text/javascript" src="http://s.eclick.vn/delivery/eclick.js"></script>
+                <script language="javascript" type="text/javascript">
+					var _siteId = "5";
+                    function showidmflash() {
+                        window.parent.postMessage('showpopupidmflash', '*');
+                    }
+                    function reloadPage(videoLink) {
+                        window.parent.location.href = decodeURIComponent(videoLink);
+                    }
+                    var _gaq = _gaq || [];
+                    var ua = window.navigator.userAgent;
+                    var msie = ua.indexOf("MSIE ");
+                    (function() {
+                        var ga = document.createElement('script');
+                        ga.type = 'text/javascript';
+                        ga.async = true;
+                        //ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                        var s = document.getElementsByTagName('script')[0];
+                        s.parentNode.insertBefore(ga, s);
+                    })();
+                    var DEVICE_ENV = 4;
+                </script>
+        </head>
+        <body style="border:0 none; margin: 0; padding: 0; overflow: hidden;">
+            <div class="parser_body">
+                                    <div class="parser_3261202 block_video_parser">
+                        <img width="100%" alt="" src="http://img.video.vnecdn.net/web/2015/08/09/nguoi-dan-vung-lu-xi-than-co-vot-vat-tai-san-con-sot-lai-1439099726_490x294.jpg"> 
+                            <div class="icon_bloclvideo">
+                                <div class="img_icon">&nbsp;</div>
+                                <div class="image_icon_center">&nbsp;</div>
+                            </div>
+                    </div>
+                    <script language="javascript" type="text/javascript">
+                        var isMobile = {
+							Android: function() {
+								return navigator.userAgent.match(/Android/i);
+							},
+							BlackBerry: function() {
+								return navigator.userAgent.match(/BlackBerry/i);
+							},
+							iOS: function() {
+								return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+							},
+							Opera: function() {
+								return navigator.userAgent.match(/Opera Mini/i);
+							},
+							Windows: function() {
+								return navigator.userAgent.match(/IEMobile/i);
+							},
+							any: function() {
+								return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+							}
+						};
+                        var html5_preroll = true;
+						if(isMobile.any())
+						{
+							if(!isMobile.Android())
+							{
+								html5_preroll = false;
+							}
+						}	
+                        var siteId = 1000000;
+                        var siteIdChungTa = 1003530;
+                        var id = 3261202;
+						var videoId = 63121;
+                        var videoSource = 'http://video.vnecdn.net/video/web/mp4/480p/2015/08/09/nguoi-dan-vung-lu-xi-than-co-vot-vat-tai-san-con-sot-lai-1439099726.mp4';
+                        var flash_url = 'http://st.f4.vnecdn.net/responsive/f/v16';
+                        var thumbnail_url = 'http://img.video.vnecdn.net/web/2015/08/09/nguoi-dan-vung-lu-xi-than-co-vot-vat-tai-san-con-sot-lai-1439099726_490x294.jpg';
+                        var video_info = {"3261202":{"category_id":"1003607","url":"http:\/\/video.vnecdn.net\/video\/web\/mp4\/480p\/2015\/08\/09\/nguoi-dan-vung-lu-xi-than-co-vot-vat-tai-san-con-sot-lai-1439099726.mp4","thumbnail_url":"http:\/\/img.video.vnecdn.net\/web\/2015\/08\/09\/nguoi-dan-vung-lu-xi-than-co-vot-vat-tai-san-con-sot-lai-1439099726_490x294.jpg","share_url":"http:\/\/video.vnexpress.net\/trong-nuoc\/nguoi-dan-vung-lu-xi-than-co-vot-vat-tai-san-con-sot-lai-3261202.html","title_format":"Ng\u01b0\u1eddi d\u00e2n v\u00f9ng l\u0169 x\u1ec9 than c\u1ed1 v\u1edbt v\u00e1t t\u00e0i s\u1ea3n c\u00f2n s\u00f3t l\u1ea1i","show_ads":1,"have_license":"1"}};
+                        var videoPlayerId = '3261202_68766';
+                        var typevideo = 1;
+                        var suggestion_url = 'http://vnexpress.net/detail/suggest/id/';
+                        var adsZone = '';
+                                                    adsZone = '880';
+                                                    var autoplay = 'true';
+                        var html5auto = 'autoplay="autoplay"';
+                        var ishome = 0;
+                        var articlelink = '';
+                        var share_url = '';
+                        if (ishome == 1)
+                        {
+                            var articleid = '1000000';
+                        }
+                        else
+                        {
+                            curl = /([\d]+)(-p([\d]+))?\.html/.exec(articlelink);
+                            if (curl == null)
+                            {
+                                var articleid = 0;
+                            }
+                            else
+                            {
+                                var articleid = curl[1];
+                            }
+                        }
+                        var fileFlash = 'fptplayer_embed.swf';
+                        var asset = 'asset_embed.swf';
+                        if(siteId === siteIdChungTa)
+                        {
+                            fileFlash = 'fptplayer.swf';
+                            asset = 'asset.swf';
+                        }
+                        //Get track data
+                        var trackData = '';
+                        //Check data to push param
+                        trackData += 'xmlPath=&amp;mAuto=' + autoplay + '&amp;autoHide=true&amp;tracktype=video&asseturl=' + flash_url + '/'+asset+'&amp;playerid=video_' + videoPlayerId + '&amp;typeview=1';
+                        //Track url
+                        trackData += '&amp;trackurl=' + video_info[id].url;
+                        //Track thumb
+                        trackData += '&amp;thumburl=' + video_info[id].thumbnail_url;
+                        //Track link
+                        trackData += '&amp;tracklink=' + share_url;
+                        //Track link
+                        trackData += '&amp;articleid=' + articleid + '&amp;articlelink=' + articlelink;
+                        //Suggestion url
+                        if (typevideo != 2) {
+                            trackData += '&amp;suggestionurl=' + suggestion_url + id + '/type/1/exclude/' + id;
+                        }
+                        //Track id
+                        trackData += '&amp;videoid=' + videoId;
+                        //Track type
+                       // trackData += '&amp;videotype=' + ((typevideo == 2) ? 200 : 201);
+                        trackData += '&amp;videotype=200&amp;siteid=5&amp;player=1';
+                        //Ads zone
+                        var isShowAds = typeof (video_info[id].show_ads) != 'undefined' ? video_info[id].show_ads : 0;
+                        trackData += '&amp;adszoneid=';
+                        if (isShowAds == 1 && adsZone != '') {
+                            trackData += adsZone;
+                        }
+                        if (ishome == 1)
+                        {
+                            //Track title
+                            trackData += '&amp;tracktitle=';
+                        }
+                        else
+                        {
+                            //Track title
+                            trackData += '&amp;tracktitle=' + video_info[id].title_format;
+                        }
+                        var html = '';
+                        var flashDetectInstalled = FlashDetect.installed;
+                        if (DEVICE_ENV != 4 || flashDetectInstalled == false)
+                        {
+                            var adsZoneHtml5 = '';
+                            if (isShowAds == 1 && adsZone != '') {
+                                adsZoneHtml5 = adsZone;
+                            }
+                            html += '<div data-html5="1" data-video-zid="' + adsZoneHtml5 + '" style="height:100%;width:100%">';
+                            //html += '<video id="video_' + videoPlayerId + '" class="video-js" controls="true" height="100%" width="100%" poster="' + thumbnail_url + '" data-setup="{}">';
+                            html += "<video "+' id="video_'+videoPlayerId+'" class="video-js" controls="controls" preload="none" height="100%" width="100%" poster="'+thumbnail_url+ '" ads="' + encodeURI('{"schedule":[{"tag": "1,3,5","position": "pre-roll"}]}') + '"' +' src="'+videoSource+ '" type="video/mp4"'+'/></video></div>';
+                            //html += '<source src="' + videoSource + '" type="video/mp4" /></video></div>';
+                            var g = document.createElement('script');
+                            g.setAttribute('src', 'http://s.eclick.vn/delivery/video/wrapper.js');
+                            g.setAttribute('type', 'text/javascript');
+                            g.setAttribute('charset', 'utf-8');
+                            document.getElementsByTagName('head')[0].appendChild(g);
+                            $('.parser_' + id).bind('click', function() {
+                                $('.parser_body').html(html);
+                                //Add script tracking click play
+                                var d = new Date();
+                                var t = d.getTime();
+                                var h = document.createElement('script');
+                                h.setAttribute('src', 'http://l.a.eclick.vn/media/video?ac=play&id='+videoId+'&type=200&siteId=5&player=2&articleId='+articleid+'&url='+articlelink+'&showads='+isShowAds+'&t='+t);
+                                h.setAttribute('type', 'text/javascript');
+                                h.setAttribute('charset', 'utf-8');
+                                document.getElementsByTagName('head')[0].appendChild(h);
+                                if (ishome == 1)
+                                {
+                                    var trackUrl = share_url.split('vnexpress.net');
+                                    //Push pageview
+                                    _gaq.push(['_trackEvent', 'Home', 'Click tin ảnh lớn video', 'Box video']);
+                                    if (trackUrl[1] != undefined && trackUrl[1])
+                                    {
+                                        _gaq.push(['_setAccount', 'UA-249346-21']);
+                                        _gaq.push(['_trackPageview', trackUrl[1]]);
+                                        _gaq.push(['c._setAccount', 'UA-249346-1']);
+                                        _gaq.push(['c._trackPageview', trackUrl[1]]);
+                                    }
+
+                                    //Track eclick
+                                    var _siteId = "5";
+                                    // track cu trang con 
+                                    (function() {
+                                        var e = document.createElement("script");
+                                        e.type = "text/javascript", e.async = !0, e.src = "http://st.l.a.eclick.vn/ea.js";
+                                        var t = document.getElementsByTagName("script")[0];
+                                        t.parentNode.insertBefore(e, t)
+                                    })();
+                                }
+                                var video = document.getElementById('video_' + videoPlayerId);
+								video.load();
+                                video.play();
+        						if(html5_preroll)
+        						{
+        							$.getScript('http://st.f2.vnecdn.net/responsive/j/v60/vastvideo.js').done(function(script, textStatus) {
+										console.log("init Ad!");
+										var a = document.getElementById('video_' + videoPlayerId);
+										if (a) {
+											initAdsFor('video_'+videoPlayerId);
+										}
+										else {
+											console.log("not found video player!");
+										}
+									});
+        						}
+                            });
+                            $('#video_' + videoPlayerId).removeAttr('controls');
+                        }
+                        else
+                        {
+                            //Check IE <=8 chay cau truc object cu
+                            if (msie > 0 && jQuery.browser.version <= 8.0) {
+                                html += '<object id="video_' + videoPlayerId + '" height="100%" width="100%" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0"  classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">'
+                                    + '<param value="' + flash_url + '/' +fileFlash+ '" name="movie">'
+                                    + '<param value="high" name="quality">'
+                                    + '<param value="transparent" name="wmode">'
+                                    + '<param value="' + trackData + '" name="flashvars">'
+                                    + '<param value="true" name="allowfullscreen">'
+                                    + '<param value="always" name="allowScriptAccess">';
+                                html += '<embed name="video_' + videoPlayerId + '" height="100%" width="100%" src="' + flash_url + '/' + fileFlash + '" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" type="application/x-shockwave-flash" flashvars="' + trackData + '">';
+                                html += '</object>';
+                            }
+                            else
+                            {
+                                html += '<object type="application/x-shockwave-flash" id="video_' + videoPlayerId + '" data="' + flash_url + '/' + fileFlash + '" height="100%" width="100%">'
+                                    + '<param value="high" name="quality">'
+                                    + '<param value="transparent" name="wmode">'
+                                    + '<param value="true" name="allowfullscreen">'
+                                    + '<param value="always" name="allowScriptAccess">'
+                                    + '<param value="' + trackData + '" name="flashvars"></object>';
+                            }
+                            $('.parser_' + id).bind('click', function() {
+                                $('.parser_body').html(html);
+                                var d = new Date();
+                                var t = d.getTime();
+                                var h = document.createElement('script');
+                                h.setAttribute('src', 'http://l.a.eclick.vn/media/video?ac=play&id='+videoId+'&type=200&siteId=5&player=1&articleId='+articleid+'&url='+articlelink+'&showads='+isShowAds+'&t='+t);
+                                h.setAttribute('type', 'text/javascript');
+                                h.setAttribute('charset', 'utf-8');
+                                document.getElementsByTagName('head')[0].appendChild(h);
+                                if (ishome == 1)
+                                {
+                                    var trackUrl = share_url.split('vnexpress.net');
+                                    //Push pageview
+                                    _gaq.push(['_trackEvent', 'Home', 'Click tin ảnh lớn video', 'Box video']);
+                                    if (trackUrl[1] != undefined && trackUrl[1])
+                                    {
+                                        _gaq.push(['_setAccount', 'UA-249346-21']);
+                                        _gaq.push(['_trackPageview', trackUrl[1]]);
+                                        _gaq.push(['c._setAccount', 'UA-249346-1']);
+                                        _gaq.push(['c._trackPageview', trackUrl[1]]);
+                                    }
+
+                                    //Track eclick
+                                    var _siteId = "5";
+                                    // track cu trang con 
+                                    (function() {
+                                        var e = document.createElement("script");
+                                        e.type = "text/javascript", e.async = !0, e.src = "http://st.l.a.eclick.vn/ea.js";
+                                        var t = document.getElementsByTagName("script")[0];
+                                        t.parentNode.insertBefore(e, t)
+                                    })();
+                                }
+                            });
+                        }
+                    </script>
+                                </div>
+        </body>
+    </html>
+    
